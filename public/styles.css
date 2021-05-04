@@ -11,6 +11,9 @@ h1 {
 
 body {
     max-width: 800px;
+    min-height: 100vh;
     margin: auto;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
