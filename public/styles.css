@@ -10,5 +10,7 @@ h1 {
 }
 
 body {
-    align-items: center;
+    max-width: 800px;
+    margin: auto;
+    display: flex;
 }
