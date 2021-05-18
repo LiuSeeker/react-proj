@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Fulano Da Silva",
+        "email": "fulano@google.com",
+        "password_hash": "123456"
+      },
+      {
+        "id": 2,
+        "name": "Ciclano Da Silva",
+        "email": "ciclano@google.com",
+        "password_hash": "abcabc"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name" : "Tênis para corrida",
+        "value": 220
+      },
+      {
+        "id": 2,
+        "name" : "Camiseta sem estampa",
+        "value": 50.99
+      }
+    ]
+}
